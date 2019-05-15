@@ -1,0 +1,6 @@
+framework module Pods_ValetFixChatTests {
+  umbrella header "Pods-ValetFixChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

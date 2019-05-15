@@ -1,0 +1,6 @@
+framework module Pods_ValetFixChat {
+  umbrella header "Pods-ValetFixChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
